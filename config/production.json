@@ -1,0 +1,7 @@
+{
+    "mongoURI":"mongodb+srv://mohan1997:9884009008@cluster0.n9qea.mongodb.net/devcommunity?retryWrites=true&w=majority",
+    "jsonwebtokenSecret":"mysecrettoken",
+    "githubClientId":"005951701ac32dceaa17",
+    "githubSecretKey":"d24cab8d187832f95cbc1315c3e15927e277a548"
+
+}
